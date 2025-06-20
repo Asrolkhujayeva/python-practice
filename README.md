@@ -6,7 +6,7 @@ Welcome! This repository contains my Python mini-projects as I learn and grow in
 
 ## 📚 Projects Overview
 
-### 1. 🧮 [BMI Calculator](./BMI/BMI calculator.ipynb)
+### 1. 🧮 [BMI Calculator](./BMI/BMI_calculator.ipynb)
 - Calculates Body Mass Index (BMI) based on user input.
 - Categorizes health risk using the WHO BMI scale.
 - Simple interactive program using basic Python input, math, and conditionals.
@@ -15,12 +15,12 @@ Welcome! This repository contains my Python mini-projects as I learn and grow in
 
 ---
 
-### 2. 🗂️ [Automatic File Sorter](./Authomatic File Sorter in File Explorer/file sorter.ipynb)
+### 2. 🗂️ [Automatic File Sorter](./Authomatic_File_Sorter_in_File_Explorer/file_sorter.ipynb)
 - Organizes files in a selected folder into subfolders by type (.csv, .jpg, .txt).
 - Uses `os` and `shutil` to move files automatically.
 - Helpful for keeping your workspace clean.
 
-🔗 Full README: [Authomatic File Sorter in File Explorer/README.md](./Authomatic File Sorter in File Explorer/README.md)
+🔗 Full README: [Authomatic File Sorter in File Explorer/README.md](./Authomatic_File_Sorter_in_File_Explorer/README.md)
 
 ---
 
