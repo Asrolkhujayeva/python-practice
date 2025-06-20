@@ -15,12 +15,12 @@ Welcome! This repository contains my Python mini-projects as I learn and grow in
 
 ---
 
-### 2. 🗂️ [Automatic File Sorter](./Authomatic_File_Sorter_in_File_Explorer/file_sorter.ipynb)
+### 2. 🗂️ [Automatic File Sorter](./Authomatic_File Sorter_in_File_Explorer/file_sorter.ipynb)
 - Organizes files in a selected folder into subfolders by type (.csv, .jpg, .txt).
 - Uses `os` and `shutil` to move files automatically.
 - Helpful for keeping your workspace clean.
 
-🔗 Full README: [Authomatic File Sorter in File Explorer/README.md](./Authomatic_File_Sorter_in_File_Explorer/README.md)
+🔗 Full README: [Authomatic File Sorter in File Explorer/README.md](./Authomatic_File Sorter_in_File_Explorer/README.md)
 
 ---
 
