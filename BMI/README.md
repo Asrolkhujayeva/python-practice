@@ -1,26 +1,37 @@
-# 🧮 BMI Calculator
-
-This is a simple **Body Mass Index (BMI) Calculator** written in Python using basic math and conditional statements. It calculates BMI based on user input for **weight (kg)** and **height (cm)**, and categorizes the result using the World Health Organization BMI scale.
 
 ---
 
-## 📐 Formula Used
+## 📊 BMI Categories
 
-\[
-\text{BMI} = \frac{\text{Weight (kg)} \times 10{,}000}{\left(\text{Height (cm)}\right)^2}
-\]
-
----
-
-## 🚀 Features
-
-- Accepts user input for weight and height  
-- Calculates BMI using the standard formula  
-- Outputs BMI value and health category  
-- Written for beginners learning Python  
-- Ready to run in Jupyter Notebook or any Python environment
+| BMI Range       | Category                | Risk Level         |
+|-----------------|-------------------------|--------------------|
+| < 18.5          | Underweight             | Minimal            |
+| 18.5 – 24.9     | Normal Weight           | Minimal            |
+| 25.0 – 29.9     | Overweight              | Increased          |
+| 30.0 – 34.9     | Obese                   | High               |
+| 35.0 – 39.9     | Severely Obese          | Very High          |
+| ≥ 40.0          | Morbidly Obese          | Extremely High     |
 
 ---
 
-## 🖥️ Output Example
+## 📁 File Structure
 
+- `bmi_calculator.ipynb` – Jupyter Notebook with Python code and output
+- `README.md` – Project description (this file)
+
+---
+
+## 📌 Requirements
+
+This project uses only **standard Python**, no external libraries.
+
+- Python 3.x
+- Jupyter Notebook (optional)
+
+---
+
+## ✅ How to Run
+
+1. Clone this repository or download the `.ipynb` file  
+2. Open it in Jupyter Notebook or any Python IDE  
+3. Run the code and follow the prompts
